@@ -1,0 +1,145 @@
+{
+  "users": [
+    {
+      "id": "admin-akbarali-001",
+      "username": "akbarali",
+      "password": "$2b$10$5ZNGOdeG4LiqUtYP5kk5R.68wy7MfvEBAy.k.fRMpQJ14ozKcI4DS",
+      "role": "admin",
+      "createdAt": "2026-10-21T11:48:38.747Z",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=akbarali"
+    },
+    {
+      "id": "b3986075-5e99-428c-9127-4131fb3e428e",
+      "username": "sherzod",
+      "password": "$2b$10$P.YIET68S8Zv9FpJBo6HHepVnJaYSZvQ7Qig/a4e.QsWqDJIlHTJK",
+      "role": "user",
+      "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=sherzod",
+      "createdAt": "2026-10-21T11:51:41.527Z"
+    },
+    {
+      "id": "10b54deb-470b-451c-bb5e-4786b52a326f",
+      "username": "akiw1234",
+      "password": "$2b$10$WC15F/UtUO2iVOSXrtTw8.cxQ8D/OdC2HRkDgUzdXR6FjGsZ7saee",
+      "role": "user",
+      "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=akiw1234",
+      "createdAt": "2026-10-21T18:03:14.919Z"
+    }
+  ],
+  "videos": [
+    {
+      "id": "anime-jojo-bizarre",
+      "title": "JoJo's Bizarre Adventure (JoJoning g‘aroyib sarguzashtlari)",
+      "description": "Joestar xonadoni va Dio Brando o‘rtasidagi ko‘p avlodli afsonaviy kurash. Qadimgi tosh niqob sirlari, Hamon texnikalari va Stand janglari bilan to‘la ko‘p qismli sarguzasht.",
+      "isSeries": true,
+      "thumbnail": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=800&auto=format&fit=crop&q=80",
+      "uploader": "akbarali",
+      "uploaderId": "admin-akbarali-001",
+      "createdAt": "2026-10-21T12:31:11.497Z",
+      "views": 450,
+      "episodes": [
+        {
+          "id": "jojo-ep-1",
+          "episodeNumber": 1,
+          "title": "1-Qism: Dio the Invader (Dio — kutilmagan mehmon)",
+          "filename": null,
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+          "duration": "24:00"
+        },
+        {
+          "id": "jojo-ep-2",
+          "episodeNumber": 2,
+          "title": "2-Qism: A Letter from the Past (O‘tmishdan maktub)",
+          "filename": null,
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "duration": "23:45"
+        },
+        {
+          "id": "jojo-ep-3",
+          "episodeNumber": 3,
+          "title": "3-Qism: Youth with Dio (Dio bilan kechgan yoshlik)",
+          "filename": null,
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "duration": "24:12"
+        },
+        {
+          "id": "jojo-ep-4",
+          "episodeNumber": 4,
+          "title": "4-Qism: Overdrive (Hamon kuchi namoyishi)",
+          "filename": null,
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+          "duration": "23:50"
+        }
+      ]
+    },
+    {
+      "id": "sample-anime-01",
+      "title": "Attack on Titan: The Final Season",
+      "description": "Eren Yeager va uning do‘stlari o‘rtasidagi eng shiddatli jang. Do‘stlar bilan birgalikda HD sifatda tomosha qiling!",
+      "episode": "1-Qism (Maxsus)",
+      "filename": null,
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "thumbnail": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&auto=format&fit=crop&q=80",
+      "uploader": "akbarali",
+      "uploaderId": "admin-akbarali-001",
+      "createdAt": "2026-10-21T11:48:38.748Z",
+      "views": 142,
+      "episodes": [
+        {
+          "id": "ep-1",
+          "episodeNumber": 1,
+          "title": "1-Qism (Maxsus)",
+          "filename": null,
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+          "duration": "24:00"
+        }
+      ]
+    },
+    {
+      "id": "sample-anime-02",
+      "title": "Cyberpunk Edgerunners: Night City Tales",
+      "description": "Night City ko‘chalarida adrenalin va neon chiroqlar ostida kechadigan sarguzashtlar. Ajoyib audio va video effektlar.",
+      "episode": "Treyler & Maxsus lavha",
+      "filename": null,
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "thumbnail": "https://images.unsplash.com/photo-1563089145-599997674d42?w=800&auto=format&fit=crop&q=80",
+      "uploader": "akbarali",
+      "uploaderId": "admin-akbarali-001",
+      "createdAt": "2026-10-21T11:48:38.749Z",
+      "views": 89,
+      "episodes": [
+        {
+          "id": "ep-2",
+          "episodeNumber": 1,
+          "title": "Treyler & Maxsus lavha",
+          "filename": null,
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "duration": "24:00"
+        }
+      ]
+    },
+    {
+      "id": "sample-anime-03",
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "description": "Tanjiro va Nezuko iblislar qiroli Muzanga qarshi kurashi. Hashiralarning afsonaviy janglari.",
+      "episode": "1-Fasl Prevyu",
+      "filename": null,
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "thumbnail": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=800&auto=format&fit=crop&q=80",
+      "uploader": "akbarali",
+      "uploaderId": "admin-akbarali-001",
+      "createdAt": "2026-10-21T11:48:38.749Z",
+      "views": 215,
+      "episodes": [
+        {
+          "id": "ep-3",
+          "episodeNumber": 1,
+          "title": "1-Fasl Prevyu",
+          "filename": null,
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "duration": "24:00"
+        }
+      ]
+    }
+  ],
+  "rooms": []
+}
